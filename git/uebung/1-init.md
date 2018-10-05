@@ -8,7 +8,7 @@ center: true
 # Übung 1 Git Setup
 
 --- 
-## Initialies Setup eines Git Repository
+## Initiales Setup eines Git Repository
 
 ---
 ### Download Git Client
