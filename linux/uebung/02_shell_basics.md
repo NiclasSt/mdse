@@ -51,6 +51,6 @@ Das Arbeitsverzeichnis des Terminals verweist bei Start auf den Benutzerordner, 
 7. Löschen Sie den gesamten Übungsordner *exercise* mittels `rm -r ~/exercise`.
 
 ### Dateisuche und Dateigröße
-1. Suchen Sie alle *.log* Dateien in Ihrem Benutzerverzeichnis mittels `find ~ -name="*.log"`.
+1. Suchen Sie alle *.log* Dateien in Ihrem Benutzerverzeichnis mittels `find ~ -name "*.log"`.
 2. Zeigen Sie den Speicherverbrauch Ihres Benutzerordners an mittels `du -h .`. Wie groß ist dieser? Was bewirkt der Parameter `-h`? (Tipp: `man du`)
 3. Wie viel verfügbaren Speicherplatz haben Sie noch auf Ihrer VM Festplatte? `df -h .`
