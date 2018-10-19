@@ -12,7 +12,7 @@ Die folgenden Übungen werden mit der Anwendung *Terminal* innerhalb Ihrer Ubunt
 
 1. Navigieren Sie in Ihren Benutzerordner mit  `cd` (alternativ: `cd ~` oder `cd $HOME`).
 2. Geben Sie den Inhalt der Shell Historie mit dem Befehl `history` aus.
-3. Nutzen Sie nun den Pipe Operator **|** um die Ausgabe des *cat* Befehls an *grep* weiterzuleiten und diese mit *grep* zu filtern. Lassen Sie sich Ihre kürzlichen *mkdir* Befehle anzeigen mit: `history | grep "mkdir"`.
+3. Nutzen Sie nun den Pipe Operator **|** um die Ausgabe des *history* Befehls an *grep* weiterzuleiten und diese mit *grep* zu filtern. Lassen Sie sich Ihre kürzlichen *mkdir* Befehle anzeigen mit: `history | grep "mkdir"`.
 4. Geben Sie die Anzahl der Zeilen in *history* aus: `history | wc -l`.
 5. Wie oft haben Sie in letzter Zeit den `mkdir` Befehl ausgeführt? Erweitern Sie den Befehl aus dem letzten Schritt mit einem `grep` Filter um dies zu beantworten.
 
