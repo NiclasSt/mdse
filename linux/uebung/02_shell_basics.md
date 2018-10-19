@@ -36,7 +36,7 @@ Das Arbeitsverzeichnis des Terminals verweist bei Start auf den Benutzerordner, 
 2. Legen Sie einen neuen Ordner Namens *exercise* mit `mkdir exercise` an und öffnen Sie diesen mit `cd exercise`.
 3. Legen Sie eine neue Datei mit dem Namen *myfile* an mit `touch myfile`. Prüfen Sie das Ergebnis mit `ls`.
 4. Entfernen Sie die Datei mit `rm myfile`. Prüfen Sie das Ergebnis mit `ls`.
-5. Legen Sie innerhalb von *exercise* einen weiteren Ordner mit dem Namen *myfolder* an, der einen Ordner namens *subfolder* enthält. Verwenden Sie hierfür `mkdir -p myfolder/myfolder`. Was bewirkt *-p*?
+5. Legen Sie innerhalb von *exercise* einen weiteren Ordner mit dem Namen *myfolder* an, der einen Ordner namens *subfolder* enthält. Verwenden Sie hierfür `mkdir -p myfolder/subfolder`. Was bewirkt *-p*?
 6. Prüfen Sie die angelegte Ordnerstruktur unter Verwendung von `ls` oder `tree`.
 7. Stellen Sie sicher, dass Sie sich im *exercise* Ordner befinden und versuchen Sie *myfolder* inklusive dem Unterordner zu löschen. Versuchen Sie dies mit dem Befehl `rm myfolder`. Was ist passiert? Versuchen Sie ein erneutes Löschen mit `rm -r myfolder`.
 
