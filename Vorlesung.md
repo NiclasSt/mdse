@@ -57,6 +57,12 @@ center: false
 * Note für Theorieteil, Praxisteil und Gesamteindruck
 
 ---
+## Prüfungsleistung: Präsentation #2
+
+* Termin 1: Donnerstag 22.11 (9:00 - 12:00)
+* Termin 2: Freitag 30.11 (13:00 - 16:00)
+
+---
 ### Themen
 * Kubernetes
 * Continuous Integration & Continous Delivery
