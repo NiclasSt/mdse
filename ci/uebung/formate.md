@@ -31,7 +31,7 @@ Bearbeiten Sie folgende Dateien und führen Sie die Unit Tests aus um das Ergebn
 Implementieren Sie die Struktur in der XML-Datei **student.xml** in *src/main/resources/*. Stellen Sie das korrekte Ergebnis sicher indem Sie den Unit Test *xml* ausführen.
 
 ##### 2.2) JSON
-Implementieren Sie die Struktur in der XML-Datei **student.json** in *src/main/resources/*. Stellen Sie das korrekte Ergebnis sicher indem Sie den Unit Test *json* ausführen.
+Implementieren Sie die Struktur in der JSON-Datei **student.json** in *src/main/resources/*. Stellen Sie das korrekte Ergebnis sicher indem Sie den Unit Test *json* ausführen.
 
 ##### 2.3) YAML
 Implementieren Sie die Struktur in der YAML-Datei **student.yml** in *src/main/resources/*. Stellen Sie das korrekte Ergebnis sicher indem Sie den Unit Test *yaml* ausführen.
